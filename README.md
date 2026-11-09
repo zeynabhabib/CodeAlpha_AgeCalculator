@@ -1,4 +1,4 @@
- 🧮 Age Calculator
+ Age Calculator
 
 A simple, clean, and responsive web application that calculates a user's exact age in **years, months, and days** based on their date of birth.
 
@@ -6,15 +6,15 @@ A simple, clean, and responsive web application that calculates a user's exact a
 
 
 
- 🚀 Live Demo
+  Live Demo
 
-🌐 Check out the live version here:  
+ Check out the live version here:  
 https://zeynabsappcalculator.netlify.app/
 
 
 
 
- ✨ Features
+  Features
 
 - 🗓️ Accurate age calculation
 - ✅ Real-time validation for day, month, and year
@@ -24,7 +24,7 @@ https://zeynabsappcalculator.netlify.app/
 
 
 
- 🛠️ Technologies Used
+  Technologies Used
 
 - HTML5  
 - CSS3 (with media queries for responsiveness)  
